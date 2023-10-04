@@ -63,5 +63,5 @@ inputElem.addEventListener('keypress', (event)=>{
 
 
     
-// https://api.openweathermap.org/data/2.5/weather?q=&&appid=b13184330722ef732379edfc8584e857
-// https://api.openweathermap.org/data/2.5/weather?q=&&appid={API key}
+// ------------------> https://github.com/abasSolver/Weather_app <-------------------------
+
